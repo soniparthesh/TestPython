@@ -1,2 +1,2 @@
 # TestPython
-Testing repository for release-eng project
+Testing repository for relng project
